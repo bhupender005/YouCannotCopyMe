@@ -1,5 +1,5 @@
 To start with, just run following command
-node runMe.js
+> node runMe.js
 
 Enter some text:
 e.g. "Hey! You cannont copy me!"
